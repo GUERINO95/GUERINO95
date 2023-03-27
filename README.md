@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Leonardo Guerino</h1>
+<h1 align="center">Olá, sou Leonardo Guerino 👋 </h1>
 <h3 align="center">Consultor em PowerBi | SQL | DAX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guerino95&label=Profile%20views&color=0e75b6&style=flat" alt="guerino95" /> </ p>
